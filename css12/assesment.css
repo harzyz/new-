@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  padding: 20px;
+}
+img {
+  padding-top: 0px;
+  width: 30px;
+  height: 30px;
+}
+h3 {
+  color: #3d3a34;
+  position: relative;
+  top: 5px;
+  left: 0px;
+}
+.base {
+  width: 350px;
+  text-align: center;
+  position: relative;
+  left: 40px;
+}
+.ground {
+  display: flex;
+  justify-content: space-between;
+  min-width: 370px;
+}
